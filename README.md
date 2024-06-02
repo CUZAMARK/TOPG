@@ -1,3 +1,6 @@
+[![image](https://github.com/TechShreyash/AnimeDexLite/assets/82265247/98c27bb6-c4a8-4224-983e-2bb21386032a)](https://topg.eu.org)
+
+
 # 🌐 Live Chat Website
 
 Welcome to the Live Chat Website repository! This open-source project allows you to create a simple yet powerful live chatting platform with a nostalgic 90s/early 2000s style.
