@@ -1,4 +1,4 @@
-[![image](https://github.com/TechShreyash/AnimeDexLite/assets/82265247/98c27bb6-c4a8-4224-983e-2bb21386032a)](https://topg.eu.org)
+[![image](https://topg.eu.org/665c3ed974be8065603ae2e3_1.jpg)](https://topg.eu.org)
 
 
 # 🌐 Live Chat Website
