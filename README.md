@@ -1,4 +1,4 @@
-[![image](https://topg.eu.org/665c3ed974be8065603ae2e3_1.jpg)](https://topg.eu.org)
+[![image](https://topg.eu.org/chat/665c3ed974be8065603ae2e3_1.jpg)](https://topg.eu.org)
 
 
 # 🌐 Live Chat Website
