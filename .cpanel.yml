@@ -1,1 +1,5 @@
-
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/alxihsql/public_html/ab/
+    - /bin/cp * $DEPLOYPATH
